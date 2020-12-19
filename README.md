@@ -29,11 +29,11 @@
 
 ### 🚦 Stats
 
-<a href="https://github.com/natee/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=natee&show_icons=true&hide=commits" />
+<a href="https://dimianni.github.io/">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimianni&show_icons=true&hide=commits" />
 </a>
-<a href="https://github.com/natee/website">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natee&layout=compact" />
+<a href="https://dimianni.github.io/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimianni&layout=compact" />
 </a>
 
 <p align="center"> 
@@ -41,4 +41,4 @@
 </p>
 
 ---
-⭐️ From [natee](https://github.com/dimianni)
+⭐️ From [dimianni](https://github.com/dimianni)
