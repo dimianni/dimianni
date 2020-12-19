@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋🏻 <br> My name is Dima</h1>
+<h3 align="center">I create websites for businesses</h3>
+
 ### 💻 Tech Stack 
 
 ![Gulp](https://img.shields.io/badge/-GULP-grey?style=for-the-badge&logo=gulp)
@@ -9,15 +12,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SASS-grey?style=for-the-badge&logo=sass)
 
-...
-
 ### ⚙️ Content Management Systems
 
 ![WordPress](https://img.shields.io/badge/-WordPress-grey?style=for-the-badge&logo=wordpress)
 ![OpenCart](https://img.shields.io/badge/-OpenCart-grey?style=for-the-badge&logo=opencart)
 ![Drupal](https://img.shields.io/badge/-Drupal-grey?style=for-the-badge&logo=drupal)
-
-
 
 ### 💡 Let's Talk!
 
