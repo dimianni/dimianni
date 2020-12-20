@@ -3,8 +3,8 @@
 
 ### 📌 Portfolio
 
-<a href="https://github.com/dimianni/dimianni.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimianni&repo=dimianni.github.io&theme=onedark" />
+<a href="https://dimianni.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dimianni&repo=dimianni.github.io&theme=onedark" />
 </a>
 
 ### 💻 Tech Stack 
