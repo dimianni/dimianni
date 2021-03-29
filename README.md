@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋🏻 <br> My name is Dima</h1>
 <h3 align="center">I create websites for businesses</h3>
 
-### 📌 Portfolio
-
-<a href="https://dimianni.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dimianni&repo=dimianni.github.io&theme=onedark" />
-</a>
-
 ### 💻 Tech Stack 
 
 ![Gulp](https://img.shields.io/badge/-GULP-grey?style=for-the-badge&logo=gulp)
