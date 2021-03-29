@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻 <br> My name is Dima</h1>
+<h1 align="center">Hi 👋🏻 <br> My name is Dmytro Anikin</h1>
 
 ### 💻 Tech Stack 
 
