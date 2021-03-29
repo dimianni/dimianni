@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋🏻 <br> My name is Dima</h1>
-<h3 align="center">I create websites for businesses</h3>
 
 ### 💻 Tech Stack 
 
