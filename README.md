@@ -24,13 +24,13 @@
 ### 💡 Let's get in touch!
 
 <a href="mailto:dmytro.anikin@gmail.com">
-  <img align="left" alt="" width="22px" src="https://img.shields.io/badge/-gmail-grey?style=for-the-badge&logo=gmail" />
+  <img align="left" alt="" src="https://img.shields.io/badge/-gmail-grey?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="https://t.me/dimianni">
-  <img align="left" alt="" width="22px" src="https://img.shields.io/badge/-telegram-grey?style=for-the-badge&logo=telegram" />
+  <img align="left" alt="" src="https://img.shields.io/badge/-telegram-grey?style=for-the-badge&logo=telegram" />
 </a>
 
 <a href="https://www.linkedin.com/in/dimianni/">
-  <img align="left" alt="" width="22px" src="https://img.shields.io/badge/-linkedin-grey?style=for-the-badge&logo=linkedin" />
+  <img align="left" alt="" src="https://img.shields.io/badge/-linkedin-grey?style=for-the-badge&logo=linkedin" />
 </a>
