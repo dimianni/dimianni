@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋🏻 <br> My name is Dmytro Anikin, <br> I'm a web developer.</h1>
 
 <p>I love creating efficient and visually attractive websites by bringing designer's creative solutions to life and implementing website's functionality.</p>
-<p>Please visit my <a href="https://dimianni.com/">portfolio</a> to get to know me a little better.</p>
+<p>Please visit my <a href="https://dimianni.github.io/">portfolio</a> to get to know me a little better.</p>
 
 ### 💻 My Technical Skills 
 
