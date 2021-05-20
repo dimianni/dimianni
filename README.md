@@ -1,7 +1,8 @@
 <h1 align="center">Hey! 👋🏻 <br> My name is Dmytro Anikin, <br> I'm a web developer.</h1>
 
-<p>I love creating efficient and visually attractive websites by bringing designer's creative solutions to life and implementing website's functionality.</p>
-<p>Please visit my <a href="https://dimianni.github.io/">portfolio</a> to get to know me a little better.</p>
+I’m a front-end developer based in Aberdeen, SD, and I am a fan of web. I aim to follow the latest coding standards and leave every bit of code I write as much readable, modular and performant as possible. Besides, I also sweat the details and follow the latest web design trends through Behance and Awwwards. Curiosity about web technologies allowed me to complete several freelance projects, have an internship at Northern State University, and even partner up with my designer friends to start a small web agency. All in just one year.
+
+Please visit my [portfolio](https://dimianni.github.io/) to get to know me a little better.
 
 ### 💻 My Technical Skills 
 
