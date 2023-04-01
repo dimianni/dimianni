@@ -14,12 +14,6 @@ Please visit my [portfolio](https://dimianni.github.io/) to get to know me a lit
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
 ![SASS](https://img.shields.io/badge/-SASS-grey?style=for-the-badge&logo=sass)
 ![Webpack](https://img.shields.io/badge/-Webpack-grey?style=for-the-badge&logo=webpack)
-
-
-### ⚙️ Content Management Systems I had experience working with
-
-![WordPress](https://img.shields.io/badge/-WordPress-grey?style=for-the-badge&logo=wordpress)
-![OpenCart](https://img.shields.io/badge/-OpenCart-grey?style=for-the-badge&logo=opencart)
 ![Drupal](https://img.shields.io/badge/-Drupal-grey?style=for-the-badge&logo=drupal)
 
 ### 💡 Let's get in touch!
