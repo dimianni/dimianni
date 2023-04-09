@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 👋🏻 <br> My name is Dmytro Anikin, <br> I'm a frontend developer.</h1>
 
-I love building websites that solve business problems by combining efficiency and and attractiveness.mBringing designers’ creative solutions to life and implementing websites’ functionality is what I enjoy the most.
+I love building websites that solve business problems by combining efficiency and and attractiveness. Bringing designers’ creative solutions to life and implementing websites’ functionality is what I enjoy the most.
 
 Please visit my [portfolio](https://dimianni.github.io/) to get to know me a little better.
 
