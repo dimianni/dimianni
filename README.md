@@ -10,6 +10,7 @@ Please visit my [portfolio](https://dimianni.github.io/) to get to know me a lit
 ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/-next.js-grey?style=for-the-badge&logo=nextdotjs)
 ![Vite](https://img.shields.io/badge/-vite-grey?style=for-the-badge&logo=vite)
+![GraphQL](https://img.shields.io/badge/-graphql-grey?style=for-the-badge&logo=graphql)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-grey?style=for-the-badge&logo=Node.js&logoColor=339933)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
 ![SASS](https://img.shields.io/badge/-SASS-grey?style=for-the-badge&logo=sass)
