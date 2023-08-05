@@ -9,12 +9,14 @@ Please visit my [portfolio](https://dimianni.github.io/) to get to know me a lit
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/-next.js-grey?style=for-the-badge&logo=nextdotjs)
-![Vite](https://img.shields.io/badge/-vite-grey?style=for-the-badge&logo=vite)
+![Redux](https://img.shields.io/badge/-Redux-grey?style=for-the-badge&logo=redux)
+![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=for-the-badge&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-graphql-grey?style=for-the-badge&logo=graphql)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-grey?style=for-the-badge&logo=Node.js&logoColor=339933)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
 ![SASS](https://img.shields.io/badge/-SASS-grey?style=for-the-badge&logo=sass)
 ![Webpack](https://img.shields.io/badge/-Webpack-grey?style=for-the-badge&logo=webpack)
+![Vite](https://img.shields.io/badge/-vite-grey?style=for-the-badge&logo=vite)
 ![Drupal](https://img.shields.io/badge/-Drupal-grey?style=for-the-badge&logo=drupal)
 
 ### 💡 Let's get in touch!
