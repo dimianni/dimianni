@@ -1,6 +1,6 @@
-<h1 align="center">Hey! 👋🏻 <br> My name is Dmytro Anikin, <br> I'm a web developer.</h1>
+<h1 align="center">Welcome! 👋🏻</h1>
 
-I love building websites that solve business problems by combining efficiency and and attractiveness. Bringing designers’ creative solutions to life and implementing websites’ functionality is what I enjoy the most.
+My name is Dmytro Anikin, a web enthusiast passionate about using technology to tackle complex challenges and drive business growth. With an extensive background in web development and project management, I have hands-on experience in delivering web solutions and managing successful projects from concept to completion. Committed to continuous improvement, I am always on the lookout for new technologies and trends to stay at the forefront of the industry.
 
 Please visit my [portfolio](https://dimianni.github.io/) to get to know me a little better.
 
